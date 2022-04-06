@@ -1,0 +1,13 @@
+html{
+    background-color: #031733;
+}
+ul{
+    font-family: 'Droid Sans Mono', 'monospace', monospace;
+    color: #a8cce0;
+}
+.title{
+    color: #fff56c;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 1ch;
+}
